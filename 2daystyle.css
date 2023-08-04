@@ -1,0 +1,36 @@
+  .bali-card{
+    width: 600px;
+    border-radius: 14px;
+    margin: 50px auto;
+    position: relative;
+    }
+    .bali-img{
+    width: 100%;
+    border-radius: 14px;
+    position: relative;
+    }
+    .bali-header{
+    color: white;
+    font-weight:600;
+    font-size: 30px;
+    position: absolute;
+    margin: -270px 100px;
+    }
+    .bali-content{
+    width: 100%;
+    color: white;
+    font-weight: 600;
+    margin: -220px 10px;
+    position: absolute;
+    left: 0;
+    }
+    .bali-btn{
+    padding: 14px 26px;
+    border-radius: 40px;
+    border:none;
+    background-color: white;
+    position: absolute;
+    margin: 250px -380px;
+    font-weight: 700;
+    }
+    
