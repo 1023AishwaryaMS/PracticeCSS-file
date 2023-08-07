@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 main-div{
     border: 2px solid lightgray;
     border-radius: 20px;
@@ -38,4 +39,46 @@ main-div{
    }
    .text{
     color: gray;
+=======
+main-div{
+    border: 2px solid lightgray;
+    border-radius: 20px;
+    width: 35%;
+    margin: 60px auto;
+   }
+   .img-1{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 300px;
+    width: 100%;
+   }
+   .inline-block{
+    display: inline-flex;
+   }
+   .img-2{
+    float: left;
+   }
+   .div-2{
+    padding: 20px;
+   }
+   .btn{
+    border: 2px solid lightgray;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 10px;
+    font-size: large;
+    color:rgb(53, 103, 211);
+    font-weight: bold;
+   }
+   .h2{
+    font-weight: normal;
+   }
+   p{
+    font-size: large;
+    color: gray;
+   }
+   .text{
+    color: gray;
+>>>>>>> 5721955bb18c9c41e52725ea3f42f806c74b5446
    }

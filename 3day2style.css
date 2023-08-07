@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     .zomato{
     text-align:center;
     width: 1000px;
@@ -35,4 +36,43 @@
     border: 1px solid lightgray;
     font-size: 16px;
     }
+=======
+    .zomato{
+    text-align:center;
+    width: 1000px;
+    height: 50px;
+    padding: 10px 26px;
+    margin: 100px auto;
+    position: relative;
+    }
+    .zomato-img{
+    width: 100%;
+    }
+    .zomato-header{
+    color: white;
+    font-style: italic;
+    font-weight:600;
+    font-size: 100px;
+    position: absolute;
+    margin: -380px 270px;
+    }
+    .zomato-content{
+    color: white;
+    font-style: italic;
+    font-weight:600;
+    font-size: 20px;
+    position: absolute;
+    margin: -250px 245px;
+    }
+    input{
+    width: 600px;
+    position: absolute;
+    margin: 250px -800px;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: 1px solid lightgray;
+    font-size: 16px;
+    }
+>>>>>>> 5721955bb18c9c41e52725ea3f42f806c74b5446
     
